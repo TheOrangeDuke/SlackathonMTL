@@ -1,0 +1,94 @@
+#canvas-wrapper {
+  width: 80%;
+  height: 570px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #26aade;
+}
+
+#canvas-top {
+  height: 360px;
+  width: 100%;
+  float: left;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+}
+
+#canvas-bottom {
+  margin-top: 2px;
+  height: 180px;
+  width: 100%;
+  float: left;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.split-horizontal-fifth {
+  width: 19%;
+  height: 100%;
+  float: left;
+  padding-left: 1px;
+  padding-right: 1px;
+  border-color: white;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.split-vertical-half {
+  width: 100%;
+  height: 50%;
+  float: left;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.split-bottom-padding {
+  height: 49.5%;
+  padding-bottom: 2px;
+}
+
+.split-horizontal-half {
+  width: 47.75%;
+  height: 100%;
+  float: left;
+  padding-left: 1px;
+  padding-right: 1px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.canvas-container {
+  height: 100%;
+  width: 100%;
+  background-color: white;
+  color: #024660;
+}
+
+.canvas-title {
+  padding-top: 8px;
+  margin: auto;
+  display: block;
+  margin-left: 16px;
+
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 0.87em;
+  letter-spacing: 1px;
+}
+
+.canvas-fill {
+  height: 130px;
+  margin: 2px;
+  width: auto;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding-left: 7px;
+  padding-right: 7px;
+
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  overflow-y: hidden;
+}
